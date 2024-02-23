@@ -29,15 +29,15 @@ git clone https://github.com/seu_usuario/lista-de-tarefas.git
 3. Configure a conexão com o banco de dados.
 
 4. Crie o banco de dados e a tabela no MySQL WorkBench.
-   ```bash
-   CREATE SCHEMA `umprojeto` ;
-   USE umprojeto;
-   CREATE TABLE lista (
-    id_lista INT AUTO_INCREMENT PRIMARY KEY ,
-    tarefa VARCHAR(255),
-    data_tarefa DATE,
-    concluida_tarefa BOOL);
-   ```
+```bash
+CREATE SCHEMA `umprojeto` ;
+USE umprojeto;
+CREATE TABLE lista (
+ id_lista INT AUTO_INCREMENT PRIMARY KEY ,
+ tarefa VARCHAR(255),
+ data_tarefa DATE,
+ concluida_tarefa BOOL);
+```
 
 6. Compile e execute o projeto.
 
