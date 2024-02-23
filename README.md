@@ -22,7 +22,7 @@ Antes de começar, certifique-se de ter os seguintes requisitos:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu_usuario/lista-de-tarefas.git
+git clone https://github.com/seu_usuario/Lista-De-Tarefas.git
 ```
 2. Abra o projeto em sua IDE preferida.
 
