@@ -52,7 +52,7 @@ Para configurar a conexão com o banco de dados, na primeira linha do programa a
 
 ## Uso
 - Ao iniciar a aplicação, você será apresentado com a lista de tarefas.
-- Siga todas as instruções escritas no console.
+- Siga todas as instruções escritas no terminal.
 - Tecle "enter" para passar para as próximas instruções.
 
 ## Contribuição
